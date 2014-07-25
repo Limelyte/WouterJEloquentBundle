@@ -10,7 +10,7 @@
     "license": "MIT",
 
     "require": {
-        "illuminate/database": "~4.1.4"
+        "illuminate/database": "~4.1"
     },
     "require-dev": {
         "matthiasnoback/symfony-dependency-injection-test": "0.*",
